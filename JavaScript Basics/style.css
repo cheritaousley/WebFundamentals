@@ -1,0 +1,66 @@
+/*CSS reset settings here*/
+*{
+ Width: 970px;
+ /* padding: 20px; */
+}
+#wrapper{
+ height:600px; 
+ width: 1200px;
+ background-color: #16355E;
+ margin: 0px 20px;
+ overflow: show;
+}
+#header{
+ height: 50px;
+ weight: 1200px;
+ background-color: red;
+ font-size: 30px;
+ color: gray;
+ font-family: serif;
+ padding: 10px;
+ border: 2px;
+ border-radius: 10px;
+ 
+}
+#navigation{
+ height: 200px;
+ width: 100px;
+ background-color: rgba(0, 255, 195, 0.51);
+ margin: 20px;
+ padding: 20px;
+ float: left;
+ top: 20px;
+ border-radius: 10px;
+ display: inline-block;
+ /* vertical-align: top; */
+}
+#main_content{
+ height: 400px;
+ width: 900px;
+ background-color: #04042D;
+ overflow: show;
+ float: right;
+ display: inline-block;
+ color: white;
+ border-radius: 10px;
+ padding: 20px;
+ /* margin-top: 20px;
+ margin-left: 0px; */
+
+}
+/* .subcontents,.subcontents,.subcontents{
+ height: 100px;
+ width: 100px;
+ background-color: yellow;
+ margin: 10px;
+ padding: 20px;
+ /* float: right; */
+ /* display: inline-block; */ 
+#advertisement{
+ height: 50px;
+ width: 1000px;
+ background-color: gray;
+ display: block;
+ margin-bottom: 400px;
+ border-radius: 10px;
+}
