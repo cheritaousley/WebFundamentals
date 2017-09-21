@@ -1,0 +1,119 @@
+.background{
+    width: 970px;
+    /* padding: 20px; */
+    background-color:#22448A;
+}
+.header{
+    display: inline-block;
+    width: 970px;
+    height: 150px;
+}
+.header h1{
+    display: inline-block;
+}
+.python{
+    margin-left:20px;
+    vertical-align: top;
+    height: 100px;
+    width: 400px;
+    display: inline-block;
+}
+.searchbar{
+    margin-left:100px;
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    background-color: brown;
+    /* margin-bottom: 00px; */
+}
+.menubar{
+    display: inline-block;
+    background-color: #4949D5;
+    color: white;
+    width: 800px;
+    margin-left:100px;
+    margin-right:100px;
+    text-align: center;
+}
+.wrapper{
+    /* display: inline-block; */
+    width: 970px;
+    /* height: 150px; */
+    margin-left:100px;
+    margin-right:100px;
+}
+.wrapper .navbar{
+    /* text-align: center; */
+    margin-top:50px;
+    margin-left:0px;
+    vertical-align: top;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    color: white;
+}
+.wrapper .navbar .la{
+    list-style-type: circle;
+    color: yellowgreen;
+}
+.wrapper .description{
+    margin-top:50px;
+    vertical-align: top;
+    height: 200px;
+    width: 500px;
+    display: inline-block;
+    color: white;
+}
+.wrapper .adjectives{
+    height: 200px;
+    width: 300px;
+    display: block;
+    text-align: center;
+    margin-left:300px;
+    color: yellowgreen;
+}
+.wrapper .adjectives .li{
+    list-style-type: none;
+}
+.footer{
+    display: inline-block;
+    width: 970px;
+    height: 300px;
+}
+.footer .start{
+    height: 75px;
+    width: 350px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 200px;
+    margin-right:100px;
+    margin-left:100px;
+    border-top: solid;
+    border-color: blue;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer .App{
+    height: 75px;
+    width: 350px;
+    display: inline-block;
+    vertical-align: top;
+    border-top: solid;
+    border-color: blue;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer .contact{
+    height: 50px;
+    width: 970px;
+    margin: 0px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top,#22448A, #477181); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #22448A, #474781); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right,#22448A, #474781); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #22448A, #474781); /* Standard syntax */;
+    /* margin-right:300px; */
+    text-align:center;
+    vertical-align: top;
+    display: inline-block;
+}
