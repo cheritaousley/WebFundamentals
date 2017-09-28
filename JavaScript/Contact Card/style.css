@@ -1,0 +1,39 @@
+.background{
+    width:1000px;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding:50px;
+}
+.wrapper{
+    width: 400px;
+    display: inline-block;
+}
+.wrapper form{
+    display: block;
+    width:230px;
+}
+.addUser{
+    display: block;
+    margin-top:10px;
+}
+.wrapper a{
+    display: block;
+}
+/* .background textarea{
+    width:200px;
+    height:100px;
+} */
+.wrapper2{
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    list-style: none;
+    border: 5px solid black;
+    text-align: center;
+}
+.wrapper2 a{
+    display:block;
+}
+/* .wrapper2 li{
+    list-style: none;
+} */
