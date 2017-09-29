@@ -1,0 +1,16 @@
+.background{
+    width:1000px;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.pokemon_box{
+    width:600px;
+    display: inline-block;
+}
+.pokedex{
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    border: 10px solid red;
+}

@@ -1,0 +1,90 @@
+.background{
+    width:1000px;
+    margin:50px 50px;
+}
+.AddClass{
+    display: inline-block;
+    border-bottom: 5px solid black;
+    width:900px;
+    margin-bottom:60px;
+}
+.red{
+    width: 80px;
+    height: 40px;
+    display: inline-block;
+}
+.AddClass h1{
+    display: inline-block;
+    margin-top:0px;
+    margin-bottom: 0px;
+    width:700px;
+    text-align: center;
+    vertical-align: top;
+}
+.AddClass p{
+    display: block;
+    vertical-align: top;
+    margin-top:0px;
+    margin-bottom: 0px;
+    width:700px;
+    text-align: center;
+    margin-left:60px;
+}
+.SlideToggle{
+    display: inline-block;
+    border-bottom: 5px solid black;
+    width:900px;
+    margin-top:60px;
+    margin-bottom: 60px;
+}
+.slide{
+    width: 80px;
+    height: 40px;
+    display: inline-block;
+}
+.SlideToggle h1{
+    display: inline-block;
+    margin-top:0px;
+    margin-bottom: 0px;
+    width:700px;
+    text-align: center;
+    vertical-align: top;
+}
+.SlideToggle p{
+    display: block;
+    vertical-align: top;
+    margin-top:0px;
+    margin-bottom: 0px;
+    width:700px;
+    text-align: center;
+    margin-left:60px;
+}
+.Append{
+    display: inline-block;
+    border-bottom: 5px solid black;
+    width:900px;
+    margin-top:60px;
+    margin-bottom:60px;
+}
+.app{
+    width: 80px;
+    height: 40px;
+    display: inline-block;
+}
+.Append h1{
+    display: inline-block;
+    margin-top:0px;
+    margin-bottom: 0px;
+    width:700px;
+    text-align: center;
+    vertical-align: top;
+}
+.Append p{
+    display: block;
+    vertical-align: top;
+    margin-top:0px;
+    margin-bottom: 0px;
+    width:700px;
+    text-align: center;
+    margin-left:60px;
+}

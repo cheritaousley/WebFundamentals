@@ -1,0 +1,13 @@
+.background{
+    width: 2000px;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.row1{
+    margin-bottom: 50px;
+}
+.image1, .image2, .image3, .image4, .image5, .image6{
+    width:150px;
+    height: 150px;
+    margin-left:50px;
+}

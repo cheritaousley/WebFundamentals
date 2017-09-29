@@ -1,0 +1,10 @@
+.background{
+    width: 1000px;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.background img{
+    width: 300px;
+    margin: 5px;
+    display: block;
+}

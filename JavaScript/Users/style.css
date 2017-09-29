@@ -1,0 +1,32 @@
+.background{
+    width:1000px;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+.background .table{
+    border: 3px solid black;
+    text-align: center;
+    padding:15px;
+    border-spacing: 5px;
+     -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+    width: 500px;
+
+}
+form{
+    width: 500px;
+}
+.form h1{
+    border-bottom: 2px solid black;
+    width:500px;
+}
+input{
+    width:400px;
+}
+button{
+    width: 75px;
+    height:20px;
+    margin-left:400px;
+    margin-top:75px;
+}

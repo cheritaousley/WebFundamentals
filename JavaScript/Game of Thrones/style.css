@@ -1,0 +1,30 @@
+.background{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #D0D090;
+    padding: 60px;
+}
+.House{
+    display: inline-block;
+    width: 700px;
+    margin-top: 50px;
+}
+.House img{
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+.House_details{
+    border: 10px solid black;
+    width: 700px;
+    height: 400px;
+    margin-top:30px;
+    text-align: center;
+}
+legend{
+    border: 5px solid black;
+}
+/* .House_details h2{
+    border: 5px solid black;
+    margin-top: -20px;
+} */

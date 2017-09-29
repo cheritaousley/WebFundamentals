@@ -1,0 +1,27 @@
+.background{
+    width: 1000px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    background-color: rgba(112, 0, 128, 0.14)
+}
+form{
+    margin-left:50px;
+    display: block;
+    border: 10px solid rgba(152, 33, 109, 0.96);
+    width: 400px;
+    height: 100px;
+}
+.output{
+    display: block;
+    border: 10px solid pink;
+    width: 400px;
+    height: 300px;
+    margin-left: 50px;
+    text-align: center;
+    color: rgba(0, 178, 255, 0.82);
+    
+}
+#search_weather{
+    margin-top:50px;
+    margin-left:50px;
+}
